@@ -1,0 +1,7 @@
+[
+  {
+    "name": "members-portal-home",
+    "route": "/",
+    "steps": [{ "wait": 3000 }]
+  }
+]

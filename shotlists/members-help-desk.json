@@ -1,0 +1,7 @@
+[
+  {
+    "name": "members-help-desk",
+    "route": "/kalkioflex/user/help-desk",
+    "steps": [{ "wait": 3500 }]
+  }
+]

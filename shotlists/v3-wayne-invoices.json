@@ -1,0 +1,7 @@
+[
+  {
+    "name": "v3-wayne-davidson-invoices",
+    "route": "/operations/coworkers/1424246286/coworkerInvoices",
+    "steps": [{ "wait": 3500 }]
+  }
+]

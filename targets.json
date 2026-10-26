@@ -1,0 +1,36 @@
+{
+  "v3": {
+    "label": "Admin Panel v3 (dashboard.nexudus.com)",
+    "baseUrl": "https://dashboard.nexudus.com",
+    "loginRoute": "/login",
+    "emailSelector": "input[name=\"Email\"]",
+    "passwordSelector": "input[name=\"Password\"]",
+    "submitButton": "sign in"
+  },
+  "v5": {
+    "label": "Admin Panel v5 (flow.nexudus.com)",
+    "baseUrl": "https://flow.nexudus.com",
+    "loginRoute": "/login",
+    "emailSelector": "#login-email",
+    "passwordSelector": "#login-password",
+    "submitButton": "sign in"
+  },
+  "members": {
+    "label": "Members Portal — Member (kalkioflex.nexudus.site)",
+    "baseUrl": "https://kalkioflex.nexudus.site",
+    "loginRoute": "/login",
+    "emailSelector": "input[name=\"email\"]",
+    "passwordSelector": "input[name=\"password\"]",
+    "submitButton": "login"
+  },
+  "contact": {
+    "label": "Members Portal — Contact (kalkioflex.nexudus.site)",
+    "baseUrl": "https://kalkioflex.nexudus.site",
+    "loginRoute": "/login",
+    "emailSelector": "input[name=\"email\"]",
+    "passwordSelector": "input[name=\"password\"]",
+    "submitButton": "login",
+    "usernameEnv": "CONTACT_USERNAME",
+    "passwordEnv": "CONTACT_PASSWORD"
+  }
+}

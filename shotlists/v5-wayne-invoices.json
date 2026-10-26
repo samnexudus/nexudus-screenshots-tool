@@ -1,0 +1,13 @@
+[
+  {
+    "name": "v5-wayne-davidson-invoices",
+    "route": "/",
+    "steps": [
+      { "waitFor": "Welcome to Nexudus" },
+      { "clickText": "Skip for now" },
+      { "wait": 1000 },
+      { "spaGoto": "/ui/spaces/coworkers/1424246286/billing/coworkerInvoices" },
+      { "wait": 3500 }
+    ]
+  }
+]
